@@ -11,5 +11,3 @@ Di sini, kami mengumpulkan kode-kode yang setara dengan kucing mencoba memancing
 
 ## Kucing Coding
 
-```python
-print("Meow! Selamat datang di dunia koding yang lebih lucu.")
